@@ -1,0 +1,16 @@
+# Archivos de compilación de Maven
+/target/
+*.class
+
+# Entornos de desarrollo (IDEs)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo y logs
+.DS_Store
+Thumbs.db
+*.log
